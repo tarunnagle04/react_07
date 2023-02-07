@@ -52,7 +52,7 @@
 
 .form-floating>.form-control:not(:placeholder-shown)~label {
     transform: scale(.85) translateY(-2rem) translateX(0.15rem) !important;
-    color: #000;
+    color: #ff0000;
     font-weight: 700;
 }
 
